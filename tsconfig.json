@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "compiled",
+    "rootDir": "Personal_notes",
+    "sourceMap": true,
+    "declaration": true
+  }
+}
